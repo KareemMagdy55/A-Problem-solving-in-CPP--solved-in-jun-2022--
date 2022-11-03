@@ -1,0 +1,23 @@
+# ninja log v5
+1	487	6785533273849660	CMakeFiles/Practice_Contest__1.dir/main.cpp.obj	546e41c6ae892616
+490	771	6785533276648207	Practice_Contest__1.exe	b5d6ed67d53493f1
+3	397	6785579249862613	CMakeFiles/C-VasyatheHipster.dir/C-VasyatheHipster.cpp.obj	9e6c9b3aae4d6cd6
+4	455	6785565779762726	CMakeFiles/A-PaintingBallswithAtCoDeer.dir/A-PaintingBallswithAtCoDeer.cpp.obj	a34361b463d3193e
+456	578	6785565780932672	A-PaintingBallswithAtCoDeer.exe	790b5ce05f3a6eda
+397	522	6785579251066667	C-VasyatheHipster.exe	542031d125fa06b0
+3	521	6785569401689193	CMakeFiles/B-ABCxxx.dir/B-ABCxxx.cpp.obj	734c9e28ad61512
+521	818	6785569404593047	B-ABCxxx.exe	fc75b153cc2b3a74
+4	1173	6785922850655001	CMakeFiles/D-Grouping2.dir/D-Grouping2.cpp.obj	3b841957a5b02383
+1173	1736	6785922856279730	D-Grouping2.exe	78de10844cb0b57e
+3	705	6787327261675025	CMakeFiles/E-Multiplication2.dir/E-Multiplication2.cpp.obj	88f72c0b4e974f3c
+706	928	6787327263811260	E-Multiplication2.exe	bf2c943a9d99a64a
+4	515	6787425563037351	CMakeFiles/F-MagicNumbers.dir/F-MagicNumbers.cpp.obj	fcdcdc2995d6856c
+515	656	6787425564476463	F-MagicNumbers.exe	bff0765fcf5aebff
+0	1574	6788064330689830	CMakeFiles/G-CanYouBuyThemAll.dir/G-CanYouBuyThemAll.cpp.obj	6a85803f74b534bd
+1574	2588	6788064340805060	G-CanYouBuyThemAll.exe	659e5a91b6e7f0d
+4	421	6788064854767332	CMakeFiles/G-CanYouBuyThemAll.dir/G-CanYouBuyThemAll.cpp.obj	6a85803f74b534bd
+421	559	6788064856085187	G-CanYouBuyThemAll.exe	659e5a91b6e7f0d
+3	447	6788066175005148	CMakeFiles/G-CanYouBuyThemAll.dir/G-CanYouBuyThemAll.cpp.obj	6a85803f74b534bd
+447	618	6788066176698311	G-CanYouBuyThemAll.exe	659e5a91b6e7f0d
+3	450	6788066474541783	CMakeFiles/G-CanYouBuyThemAll.dir/G-CanYouBuyThemAll.cpp.obj	6a85803f74b534bd
+450	630	6788066476330683	G-CanYouBuyThemAll.exe	659e5a91b6e7f0d

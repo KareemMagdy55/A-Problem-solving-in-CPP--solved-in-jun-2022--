@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week__4___Functions_and_Built_in_Libraries__",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A-HelpingChef::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A-HelpingChef-Debug-c4f93b5078fc31f31a22.json",
+					"name" : "A-HelpingChef",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B-Mex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B-Mex-Debug-cba80b4fb2099f4f3376.json",
+					"name" : "B-Mex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C-CountDistinctIntegers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C-CountDistinctIntegers-Debug-3fd515a3678fea6749b9.json",
+					"name" : "C-CountDistinctIntegers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D-Pizza::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D-Pizza-Debug-d76389203e4282c8aafa.json",
+					"name" : "D-Pizza",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E-ServalvsMonster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-ServalvsMonster-Debug-e61d2d731cbdbf54c6b5.json",
+					"name" : "E-ServalvsMonster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "F-TheNumberofEvenPairs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F-TheNumberofEvenPairs-Debug-89f2c2f703ee0bcb836d.json",
+					"name" : "F-TheNumberofEvenPairs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "G-ComparingStrings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-G-ComparingStrings-Debug-eb11b8a162afe6c31ac7.json",
+					"name" : "G-ComparingStrings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "H-IMissYou::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H-IMissYou-Debug-3b0886f214d51e8e8fd5.json",
+					"name" : "H-IMissYou",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "I-Digits::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-I-Digits-Debug-94a35e7770f3c6c17624.json",
+					"name" : "I-Digits",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "N-PuppyandSum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-N-PuppyandSum-Debug-a07da4580ff83fff8fc0.json",
+					"name" : "N-PuppyandSum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week__4___Functions_and_Built_in_Libraries__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week__4___Functions_and_Built_in_Libraries__-Debug-b0427c1bf82cf74a23eb.json",
+					"name" : "Week__4___Functions_and_Built_in_Libraries__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug",
+		"source" : "C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

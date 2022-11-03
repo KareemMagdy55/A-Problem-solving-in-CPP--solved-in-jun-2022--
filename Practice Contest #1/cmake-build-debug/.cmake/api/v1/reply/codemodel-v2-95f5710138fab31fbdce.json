@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Practice_Contest__1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A-PaintingBallswithAtCoDeer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A-PaintingBallswithAtCoDeer-Debug-8f6272d8efd2c0faa0ad.json",
+					"name" : "A-PaintingBallswithAtCoDeer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B-ABCxxx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B-ABCxxx-Debug-2ebde301af3faf03ec87.json",
+					"name" : "B-ABCxxx",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C-VasyatheHipster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C-VasyatheHipster-Debug-ab0f793b4b7a40483c44.json",
+					"name" : "C-VasyatheHipster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D-Grouping2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D-Grouping2-Debug-a4b361542fe43e68e07a.json",
+					"name" : "D-Grouping2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E-Multiplication2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-Multiplication2-Debug-601108d37e3199596bca.json",
+					"name" : "E-Multiplication2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "F-MagicNumbers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F-MagicNumbers-Debug-233195c11d44e36a80be.json",
+					"name" : "F-MagicNumbers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "G-CanYouBuyThemAll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-G-CanYouBuyThemAll-Debug-5e6093760909bc0707ef.json",
+					"name" : "G-CanYouBuyThemAll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Practice_Contest__1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practice_Contest__1-Debug-1713b808228c41579d5f.json",
+					"name" : "Practice_Contest__1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming vol.3/C++/General sheet/Practice Contest #1/cmake-build-debug",
+		"source" : "D:/Programming vol.3/C++/General sheet/Practice Contest #1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

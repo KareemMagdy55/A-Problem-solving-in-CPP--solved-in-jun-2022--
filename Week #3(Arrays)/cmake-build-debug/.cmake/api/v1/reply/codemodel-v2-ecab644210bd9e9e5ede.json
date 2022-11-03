@@ -1,0 +1,177 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A-DigitMachine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A-DigitMachine-Debug-332f4aa28e69cf55abbf.json",
+					"name" : "A-DigitMachine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B-Pasta::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B-Pasta-Debug-15d98df43706d0b809da.json",
+					"name" : "B-Pasta",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C-WhoIsMissing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C-WhoIsMissing-Debug-c219d363ccd85fd9f895.json",
+					"name" : "C-WhoIsMissing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D-Alcoholic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D-Alcoholic-Debug-85394cd9fbdfc467b393.json",
+					"name" : "D-Alcoholic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E-RollerCoaster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-RollerCoaster-Debug-5c9f0b2f317b23de38f3.json",
+					"name" : "E-RollerCoaster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "F-IrohaLovesStrings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F-IrohaLovesStrings-Debug-b1d47443a2020ff86a97.json",
+					"name" : "F-IrohaLovesStrings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "G-Thin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-G-Thin-Debug-ebc7f61587667f02dda7.json",
+					"name" : "G-Thin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "H-Team::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H-Team-Debug-b22bfa191e0a7d05063a.json",
+					"name" : "H-Team",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "I-PapersPlease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-I-PapersPlease-Debug-93bc8076479cf10ef8fb.json",
+					"name" : "I-PapersPlease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "J-AchieveTheGoal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-J-AchieveTheGoal-Debug-e354261fad6e9503b16f.json",
+					"name" : "J-AchieveTheGoal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "K-LongestSegment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-K-LongestSegment-Debug-e62b5c3d7e1fe5f58a01.json",
+					"name" : "K-LongestSegment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L-ClimbingTakahashi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L-ClimbingTakahashi-Debug-cd7bbcc024e69e8b5ff2.json",
+					"name" : "L-ClimbingTakahashi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M-HitAndBlow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M-HitAndBlow-Debug-51a447c35f58f6d793b0.json",
+					"name" : "M-HitAndBlow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week_3-Debug-b561a5371015ffef307d.json",
+					"name" : "Week_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming vol.3/C++/General sheet/Week 3/cmake-build-debug",
+		"source" : "D:/Programming vol.3/C++/General sheet/Week 3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

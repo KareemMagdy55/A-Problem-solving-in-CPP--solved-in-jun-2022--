@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Problems_A",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A-FourPoints::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A-FourPoints-Debug-c6cad1052e2b4795159d.json",
+					"name" : "A-FourPoints",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A-Watermelon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A-Watermelon-Debug-a5b35b8539a8f499f3e4.json",
+					"name" : "A-Watermelon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D-GetCloser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D-GetCloser-Debug-46be9b32f8700f78dd16.json",
+					"name" : "D-GetCloser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E-Horizon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-Horizon-Debug-a4f2a9a87eeadb04ddf8.json",
+					"name" : "E-Horizon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "F-Rotate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F-Rotate-Debug-b15d6579841ceddd19b2.json",
+					"name" : "F-Rotate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "G-WaterPressure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-G-WaterPressure-Debug-9d30567b0d8999e5b28a.json",
+					"name" : "G-WaterPressure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "H-IntegerDivision::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H-IntegerDivision-Debug-8325fd7373b7ae3c2e58.json",
+					"name" : "H-IntegerDivision",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "I-CirclePond::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-I-CirclePond-Debug-68220583267d1f2d6735.json",
+					"name" : "I-CirclePond",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "J-FerrisWheel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-J-FerrisWheel-Debug-a6995cb3b07875a5f171.json",
+					"name" : "J-FerrisWheel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "K-Dodecagon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-K-Dodecagon-Debug-a6e2a67b1a8ae0f8b183.json",
+					"name" : "K-Dodecagon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L-EatingSymbolsEasy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L-EatingSymbolsEasy-Debug-1155a27f865c1f14bc6e.json",
+					"name" : "L-EatingSymbolsEasy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M-BichromeCells::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M-BichromeCells-Debug-4eaef30018a279bda547.json",
+					"name" : "M-BichromeCells",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "N-kcal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-N-kcal-Debug-666781770e585c8df2c2.json",
+					"name" : "N-kcal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "O-Trapezoids::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-O-Trapezoids-Debug-babf0f9857a477b2c9e9.json",
+					"name" : "O-Trapezoids",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P-TakandHotels::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P-TakandHotels-Debug-1783ed18adb905d1e6cc.json",
+					"name" : "P-TakandHotels",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problems_A::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problems_A-Debug-e8514ae7140d0c7b2302.json",
+					"name" : "Problems_A",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming vol.3/C++/General sheet/Week 1/cmake-build-debug",
+		"source" : "D:/Programming vol.3/C++/General sheet/Week 1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

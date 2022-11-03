@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.21)
+project(Week__4___Functions_and_Built_in_Libraries__)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Week__4___Functions_and_Built_in_Libraries__ main.cpp)
+add_executable(A-HelpingChef A-HelpingChef.cpp)
+add_executable(B-Mex B-Mex.cpp)
+add_executable(C-CountDistinctIntegers C-CountDistinctIntegers.cpp)
+add_executable(D-Pizza D-Pizza.cpp)
+add_executable(E-ServalvsMonster E-ServalvsMonster.cpp)
+add_executable(F-TheNumberofEvenPairs F-TheNumberofEvenPairs.cpp)
+add_executable(G-ComparingStrings G-ComparingStrings.cpp)
+add_executable(H-IMissYou H-IMissYou.cpp)
+add_executable(I-Digits I-Digits.cpp)
+add_executable(N-PuppyandSum N-PuppyandSum.cpp)

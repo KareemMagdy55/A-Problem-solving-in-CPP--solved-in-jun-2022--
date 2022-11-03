@@ -1,0 +1,267 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A-EdgeChecker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A-EdgeChecker-Debug-2bda793552ee0479dd33.json",
+					"name" : "A-EdgeChecker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B-T-shirt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B-T-shirt-Debug-76b09ecf62875e7a993f.json",
+					"name" : "B-T-shirt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C-NotOverflow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C-NotOverflow-Debug-5985dfb50292380a650b.json",
+					"name" : "C-NotOverflow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D-MatrixTransposition::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D-MatrixTransposition-Debug-3e46f8f1c10e2108ead3.json",
+					"name" : "D-MatrixTransposition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E-FizzBuzzSum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-FizzBuzzSum-Debug-e4f294f05b837aa9a7d7.json",
+					"name" : "E-FizzBuzzSum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "F-Battle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F-Battle-Debug-6efdb8ba1c976dffc5d6.json",
+					"name" : "F-Battle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "G-Algae::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-G-Algae-Debug-8b0ac8cb67ffab6f6308.json",
+					"name" : "G-Algae",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "H-Airplane::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H-Airplane-Debug-6e411dcb3cfc081f5bc9.json",
+					"name" : "H-Airplane",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "I-TorT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-I-TorT-Debug-1495353c5c60ae507b3f.json",
+					"name" : "I-TorT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "J-UnevenNumbers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-J-UnevenNumbers-Debug-0ec5b808af571e613a59.json",
+					"name" : "J-UnevenNumbers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "K-+-x::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-K-+-x-Debug-a380ed7081be6c5e6452.json",
+					"name" : "K-+-x",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L-OnandOff::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L-OnandOff-Debug-4e55d16a0cf831ac8b88.json",
+					"name" : "L-OnandOff",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M-Restaurant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M-Restaurant-Debug-f77dc0180ec67c2ffd3f.json",
+					"name" : "M-Restaurant",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "N-TrainingCamp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-N-TrainingCamp-Debug-95bc553b91cc21431d39.json",
+					"name" : "N-TrainingCamp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "O-HonestOrDishonest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-O-HonestOrDishonest-Debug-ce29f1adfcd0726ad8d6.json",
+					"name" : "O-HonestOrDishonest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P-Grouping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P-Grouping-Debug-419ee6fb551db9eab442.json",
+					"name" : "P-Grouping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Q-PictureFrame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q-PictureFrame-Debug-dce1e72e545ddb6e5759.json",
+					"name" : "Q-PictureFrame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "R-RingoFavoriteNumbers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-R-RingoFavoriteNumbers-Debug-3e9ab5f44f4410d255ae.json",
+					"name" : "R-RingoFavoriteNumbers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "S-CatsandDogs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-S-CatsandDogs-Debug-4271a7bc49a346681021.json",
+					"name" : "S-CatsandDogs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "T-HarshadNumber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T-HarshadNumber-Debug-8c3dde70ee6c20094dfb.json",
+					"name" : "T-HarshadNumber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U-KnightFork::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U-KnightFork-Debug-52e8a3037ac783a07682.json",
+					"name" : "U-KnightFork",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "V-IrohaAndHaiku::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-V-IrohaAndHaiku-Debug-28994ef5f37b64293413.json",
+					"name" : "V-IrohaAndHaiku",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "W-ChildrenandCandies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-W-ChildrenandCandies-Debug-4e18f33606e81f36a478.json",
+					"name" : "W-ChildrenandCandies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week_2-Debug-eef678b16f5f8d1734f4.json",
+					"name" : "Week_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming vol.3/C++/General sheet/Week 2/cmake-build-debug",
+		"source" : "D:/Programming vol.3/C++/General sheet/Week 2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

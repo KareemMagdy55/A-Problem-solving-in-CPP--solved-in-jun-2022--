@@ -1,0 +1,13 @@
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/Week__4___Functions_and_Built_in_Libraries__.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/A-HelpingChef.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/B-Mex.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/C-CountDistinctIntegers.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/D-Pizza.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/E-ServalvsMonster.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/F-TheNumberofEvenPairs.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/G-ComparingStrings.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/H-IMissYou.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/I-Digits.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/N-PuppyandSum.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Kareem's/Programming vol.3/C++/General sheet/Week #4 ( Functions and Built-in Libraries )/cmake-build-debug/CMakeFiles/rebuild_cache.dir

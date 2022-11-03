@@ -1,0 +1,231 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week__3___Strings__",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A-MoveRight::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A-MoveRight-Debug-081090d5f19da1c2db51.json",
+					"name" : "A-MoveRight",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B-LastLetter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B-LastLetter-Debug-2029593efc637b2f08a0.json",
+					"name" : "B-LastLetter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C-Rotate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C-Rotate-Debug-44254195037a8a998b06.json",
+					"name" : "C-Rotate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D-AReverse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D-AReverse-Debug-65c7347ee8698afa2278.json",
+					"name" : "D-AReverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E-CaesarCipher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-CaesarCipher-Debug-33ec712f1491c6f350ee.json",
+					"name" : "E-CaesarCipher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "F-WayTooLongWords::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F-WayTooLongWords-Debug-4e9078be3c31e7d6dfb4.json",
+					"name" : "F-WayTooLongWords",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "G-LuckyDivision::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-G-LuckyDivision-Debug-ca14d104c3d6f12e7ad2.json",
+					"name" : "G-LuckyDivision",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "H-Registration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-H-Registration-Debug-c878e7b86f54fd2eb381.json",
+					"name" : "H-Registration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "I-Tenki::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-I-Tenki-Debug-40326aa78b23f2591f58.json",
+					"name" : "I-Tenki",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "J-TapDance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-J-TapDance-Debug-4cb4a5c993a50f8ca830.json",
+					"name" : "J-TapDance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "K-NextAlphabet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-K-NextAlphabet-Debug-19f3f78fe9b80f4ad6ce.json",
+					"name" : "K-NextAlphabet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L-EatingSymbolsEasy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L-EatingSymbolsEasy-Debug-696f21e2b50b7c71043a.json",
+					"name" : "L-EatingSymbolsEasy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M-September9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M-September9-Debug-25589d05169a1283d916.json",
+					"name" : "M-September9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "N-PalindromicNumber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-N-PalindromicNumber-Debug-3c0879ba1c7e9caaccd4.json",
+					"name" : "N-PalindromicNumber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "O-HappyNewYear::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-O-HappyNewYear-Debug-3306360c687d138c0712.json",
+					"name" : "O-HappyNewYear",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P-StudyingAlphabet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P-StudyingAlphabet-Debug-b1e82b3048e736eb403a.json",
+					"name" : "P-StudyingAlphabet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Q-UnhappyHacking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q-UnhappyHacking-Debug-0e9a42822eaac01cbf2d.json",
+					"name" : "Q-UnhappyHacking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "R-BeautifulString::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-R-BeautifulString-Debug-22258fd213055800e785.json",
+					"name" : "R-BeautifulString",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "S-CardGameforThree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-S-CardGameforThree-Debug-547e7f0475696c23679a.json",
+					"name" : "S-CardGameforThree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week__3___Strings__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week__3___Strings__-Debug-6d477437f6c7ff846576.json",
+					"name" : "Week__3___Strings__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming vol.3/C++/General sheet/Week #3 ( Strings )/cmake-build-debug",
+		"source" : "D:/Programming vol.3/C++/General sheet/Week #3 ( Strings )"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
